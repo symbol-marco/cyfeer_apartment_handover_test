@@ -48,6 +48,13 @@ flutter pub run build_runner build --delete-conflicting-outputs
 flutter run
 ```
 
+### 4. Thông tin đăng nhập
+
+```bash
+SDT : 0987654321
+MK : 123456
+```
+
 ### Build cho từng nền tảng
 
 #### Android
