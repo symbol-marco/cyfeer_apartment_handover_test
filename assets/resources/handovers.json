@@ -1,0 +1,4516 @@
+[
+  {
+    "scheduleId": 1,
+    "id": 1001,
+    "apartmentCode": "A1001_1001",
+    "status": "Chưa thực hiện",
+    "assignedTo": "Thanh Mai",
+    "date": "2025-03-06T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "A1001_1001",
+      "handoverDate": "2025-03-06T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn bếp",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa bát",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Máy hút mùi",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ lạnh",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn chiếu sáng",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Tủ đầu giường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn phòng ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bàn trang điểm",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Tủ TV",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn phòng khách",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bàn cà phê",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Ghế sofa",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Kệ tivi",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn phòng khách",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Lan can",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn ban công",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Mái che",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Bàn ngoài trời",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Ghế ngoài trời",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ban công",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "completionStatus": "06/08 đã nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 1,
+    "id": 1002,
+    "apartmentCode": "A1001_1002",
+    "status": "Chưa thực hiện",
+    "assignedTo": "Thanh Mai",
+    "date": "2025-03-06T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "A1001_1002",
+      "handoverDate": "2025-03-06T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn bếp",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa bát",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Máy hút mùi",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ lạnh",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn chiếu sáng",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Tủ đầu giường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn phòng ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bàn trang điểm",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Tủ TV",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn phòng khách",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bàn cà phê",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Ghế sofa",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Kệ tivi",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn phòng khách",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Lan can",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn ban công",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Mái che",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Bàn ngoài trời",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Ghế ngoài trời",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ban công",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "completionStatus": "06/08 đã nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 1,
+    "id": 1003,
+    "apartmentCode": "A1001_1003",
+    "status": "Chưa thực hiện",
+    "assignedTo": "Thanh Mai",
+    "date": "2025-03-06T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "A1001_1003",
+      "handoverDate": "2025-03-06T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "completionStatus": "06/08 đã nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 1,
+    "id": 1004,
+    "apartmentCode": "A1001_1004",
+    "status": "Chưa thực hiện",
+    "assignedTo": "Thanh Mai",
+    "date": "2025-03-06T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "A1001_1004",
+      "handoverDate": "2025-03-06T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "completionStatus": "06/08 đã nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 1,
+    "id": 1005,
+    "apartmentCode": "A1001_1005",
+    "status": "Chưa thực hiện",
+    "assignedTo": "Thanh Mai",
+    "date": "2025-03-06T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "A1001_1005",
+      "handoverDate": "2025-03-06T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "completionStatus": "06/08 đã nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 2,
+    "id": 2006,
+    "apartmentCode": "A1001_2006",
+    "status": "Chưa thực hiện",
+    "assignedTo": "Thanh Mai",
+    "date": "2025-03-07T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "A1001_2006",
+      "handoverDate": "2025-03-07T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "completionStatus": "06/08 đã nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 2,
+    "id": 2007,
+    "apartmentCode": "A1001_2007",
+    "status": "Chưa thực hiện",
+    "assignedTo": "Thanh Mai",
+    "date": "2025-03-07T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "A1001_2007",
+      "handoverDate": "2025-03-07T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "completionStatus": "06/08 đã nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 2,
+    "id": 2008,
+    "apartmentCode": "A1001_2008",
+    "status": "Chưa thực hiện",
+    "assignedTo": "Thanh Mai",
+    "date": "2025-03-07T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "A1001_2008",
+      "handoverDate": "2025-03-07T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "completionStatus": "06/08 đã nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 2,
+    "id": 2009,
+    "apartmentCode": "A1001_2009",
+    "status": "Chưa thực hiện",
+    "assignedTo": "Thanh Mai",
+    "date": "2025-03-07T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "A1001_2009",
+      "handoverDate": "2025-03-07T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "completionStatus": "06/08 đã nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 2,
+    "id": 2010,
+    "apartmentCode": "A1001_2010",
+    "status": "Chưa thực hiện",
+    "assignedTo": "Thanh Mai",
+    "date": "2025-03-07T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "A1001_2010",
+      "handoverDate": "2025-03-07T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "completionStatus": "06/08 đã nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 2,
+    "id": 2011,
+    "apartmentCode": "A1001_2011",
+    "status": "Chưa thực hiện",
+    "assignedTo": "Thanh Mai",
+    "date": "2025-03-07T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "A1001_2011",
+      "handoverDate": "2025-03-07T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "completionStatus": "06/08 đã nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 2,
+    "id": 2012,
+    "apartmentCode": "A1001_2012",
+    "status": "Chưa thực hiện",
+    "assignedTo": "Thanh Mai",
+    "date": "2025-03-07T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "A1001_2012",
+      "handoverDate": "2025-03-07T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "completionStatus": "06/08 đã nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 3,
+    "id": 30013,
+    "apartmentCode": "A1001_30013",
+    "status": "Chưa thực hiện",
+    "assignedTo": "Hương Giang",
+    "date": "2025-03-08T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "A1001_30013",
+      "handoverDate": "2025-03-08T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "completionStatus": "06/08 đã nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 3,
+    "id": 30014,
+    "apartmentCode": "A1001_30014",
+    "status": "Chưa thực hiện",
+    "assignedTo": "Thanh Mai",
+    "date": "2025-03-08T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "A1001_30014",
+      "handoverDate": "2025-03-08T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "completionStatus": "06/08 đã nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 3,
+    "id": 30015,
+    "apartmentCode": "A1001_30015",
+    "status": "Chưa thực hiện",
+    "assignedTo": "Thanh Mai",
+    "date": "2025-03-08T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "A1001_30015",
+      "handoverDate": "2025-03-08T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "completionStatus": "06/08 đã nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 3,
+    "id": 30016,
+    "apartmentCode": "A1001_30016",
+    "status": "Chưa thực hiện",
+    "assignedTo": "Thanh Mai",
+    "date": "2025-03-08T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "A1001_30016",
+      "handoverDate": "2025-03-08T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 5,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 6,
+          "category": "Đèn ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "completionStatus": "06/08 đã nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 5,
+    "id": 50017,
+    "apartmentCode": "E3102_50017",
+    "status": "Đang thực hiện",
+    "assignedTo": "Tuấn Kiệt",
+    "date": "2025-03-08T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "E3102_50017",
+      "handoverDate": "2025-03-08T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn nhà",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Tủ bổ sung",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Giường ngủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Tủ quần áo",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Phòng ngủ bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 4,
+          "category": "Phòng ngủ bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Tủ TV",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn phòng khách",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bàn cà phê",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Phòng khách bổ sung",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Lan can",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Sàn ban công",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Ban công bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 4,
+          "category": "Ban công bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "completionStatus": "06/08 đã nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 4,
+    "id": 40018,
+    "apartmentCode": "D2301_40018",
+    "status": "Chưa thực hiện",
+    "assignedTo": "Lan Phương",
+    "date": "2025-03-06T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "D2301_40018",
+      "handoverDate": "2025-03-06T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Lò nướng thông minh",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 2,
+          "category": "Tủ lạnh dưới tủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén sứ & Vòi",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Bếp bổ sung",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Khung giường cỡ trung",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 2,
+          "category": "Tủ quần áo âm tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 3,
+          "category": "Phòng ngủ bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 4,
+          "category": "Phòng ngủ bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Sofa mô-đun",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 2,
+          "category": "Tivi thông minh treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 3,
+          "category": "Phòng khách bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 4,
+          "category": "Phòng khách bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Aluminum Railing",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 2,
+          "category": "Outdoor Tile Flooring",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 3,
+          "category": "Ban công bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 4,
+          "category": "Ban công bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "completionStatus": "Chưa nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 5,
+    "id": 50019,
+    "apartmentCode": "E3102_50019",
+    "status": "Đang thực hiện",
+    "assignedTo": "Tuấn Kiệt",
+    "date": "2025-03-08T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "E3102_50019",
+      "handoverDate": "2025-03-08T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Tủ treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Máy rửa bát tích hợp",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Mặt bếp thạch anh",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Bếp bổ sung",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Giường ngủ cỡ lớn có ngăn lưu trữ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Phòng thay đồ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Phòng ngủ bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Phòng ngủ bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Sofa da bành",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Bàn cà phê đa năng",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Hệ thống rạp hát gia đình",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Phòng khách bổ sung",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Lan can kính cường lực",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Bộ đồ ngoại thất chống thời tiết",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Ban công bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Ban công bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "completionStatus": "Đang tiến hành nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 4,
+    "id": 40001,
+    "apartmentCode": "D2301_40001",
+    "status": "Chưa thực hiện",
+    "assignedTo": "Lan Phương",
+    "date": "2025-03-06T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "D2301_40001",
+      "handoverDate": "2025-03-06T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Lò nướng thông minh",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 2,
+          "category": "Tủ lạnh dưới tủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 3,
+          "category": "Bồn rửa chén sứ & Vòi",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Bếp bổ sung",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Khung giường cỡ trung",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 2,
+          "category": "Tủ quần áo âm tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 3,
+          "category": "Phòng ngủ bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 4,
+          "category": "Phòng ngủ bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Sofa mô-đun",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 2,
+          "category": "Tivi thông minh treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 3,
+          "category": "Phòng khách bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 4,
+          "category": "Phòng khách bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Aluminum Railing",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 2,
+          "category": "Outdoor Tile Flooring",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 3,
+          "category": "Ban công bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 4,
+          "category": "Ban công bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "completionStatus": "Chưa nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 5,
+    "id": 50002,
+    "apartmentCode": "E3102_50002",
+    "status": "Đang thực hiện",
+    "assignedTo": "Tuấn Kiệt",
+    "date": "2025-03-08T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "E3102_50002",
+      "handoverDate": "2025-03-08T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Tủ treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Máy rửa bát tích hợp",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Mặt bếp thạch anh",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Bếp bổ sung",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Giường ngủ cỡ lớn có ngăn lưu trữ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Phòng thay đồ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Phòng ngủ bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Phòng ngủ bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Sofa da bành",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Bàn cà phê đa năng",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Hệ thống rạp hát gia đình",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Phòng khách bổ sung",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Lan can kính cường lực",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Bộ đồ ngoại thất chống thời tiết",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Ban công bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Ban công bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "completionStatus": "Đang tiến hành nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 1,
+    "id": 101201,
+    "apartmentCode": "M1101_101201",
+    "status": "Đã hoàn thành",
+    "assignedTo": "Phạm Văn D",
+    "date": "2025-03-06T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "M1101_101201",
+      "handoverDate": "2025-03-06T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Bếp điện",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bếp bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Bếp bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Giường ngủ cỡ lớn",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Tủ quần áo lùa",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Phòng ngủ bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Phòng ngủ bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Sofa da",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Phòng khách bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Phòng khách bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Phòng khách bổ sung 3",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Lan can kính",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Ban công bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Ban công bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Ban công bổ sung 3",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "completionStatus": "Hoàn thành",
+      "isCompleted": true
+    }
+  },
+  {
+    "scheduleId": 2,
+    "id": 102202,
+    "apartmentCode": "M2202_102202",
+    "status": "Đang tiến hành",
+    "assignedTo": "Ngô Thị E",
+    "date": "2025-03-07T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "M2202_102202",
+      "handoverDate": "2025-03-07T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Ngăn kéo dưới tủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Bếp bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bếp bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Bếp bổ sung 3",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Bàn bên giường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Phòng ngủ bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Phòng ngủ bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Phòng ngủ bổ sung 3",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Kệ tivi",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Phòng khách bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Phòng khách bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Phòng khách bổ sung 3",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Gạch lát ban công",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Ban công bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Ban công bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Ban công bổ sung 3",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "completionStatus": "Đang tiến hành nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 3,
+    "id": 103203,
+    "apartmentCode": "M3303_103203",
+    "status": "Chưa thực hiện",
+    "assignedTo": "Trần Văn F",
+    "date": "2025-03-08T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "M3303_103203",
+      "handoverDate": "2025-03-08T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Bồn rửa chén inox & Vòi nước",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 2,
+          "category": "Bếp bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 3,
+          "category": "Bếp bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 4,
+          "category": "Bếp bổ sung 3",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Đèn trần",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 2,
+          "category": "Phòng ngủ bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 3,
+          "category": "Phòng ngủ bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 4,
+          "category": "Phòng ngủ bổ sung 3",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Kệ sách",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 2,
+          "category": "Phòng khách bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 3,
+          "category": "Phòng khách bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 4,
+          "category": "Phòng khách bổ sung 3",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Hệ thống thoát nước",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 2,
+          "category": "Ban công bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 3,
+          "category": "Ban công bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 4,
+          "category": "Ban công bổ sung 3",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "completionStatus": "Chưa nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 1,
+    "id": 101101,
+    "apartmentCode": "Z1001_101101",
+    "status": "Chưa thực hiện",
+    "assignedTo": "Nguyen Van A",
+    "date": "2025-03-06T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "Z1001_101101",
+      "handoverDate": "2025-03-06T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Tủ bếp treo tường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Bếp điện",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 3,
+          "category": "Bếp bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 4,
+          "category": "Bếp bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Giường ngủ cỡ lớn",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Tủ quần áo lùa",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 3,
+          "category": "Phòng ngủ bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 4,
+          "category": "Phòng ngủ bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Sofa da",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Phòng khách bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 3,
+          "category": "Phòng khách bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 4,
+          "category": "Phòng khách bổ sung 3",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Lan can kính",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 2,
+          "category": "Ban công bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 3,
+          "category": "Ban công bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 4,
+          "category": "Ban công bổ sung 3",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "completionStatus": "06/08 đã nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 2,
+    "id": 102102,
+    "apartmentCode": "Z2002_102102",
+    "status": "Đang thực hiện",
+    "assignedTo": "Tran Thi B",
+    "date": "2025-03-07T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "Z2002_102102",
+      "handoverDate": "2025-03-07T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Ngăn kéo dưới tủ",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Bếp bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Bếp bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Bếp bổ sung 3",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Bàn bên giường",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Phòng ngủ bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Phòng ngủ bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Phòng ngủ bổ sung 3",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Kệ tivi",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Phòng khách bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Phòng khách bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Phòng khách bổ sung 3",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Gạch lát ban công",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 2,
+          "category": "Ban công bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 3,
+          "category": "Ban công bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        },
+        {
+          "id": 4,
+          "category": "Ban công bổ sung 3",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": true
+        }
+      ],
+      "completionStatus": "Đang tiến hành nghiệm thu",
+      "isCompleted": false
+    }
+  },
+  {
+    "scheduleId": 3,
+    "id": 103103,
+    "apartmentCode": "Z3003_103103",
+    "status": "Chưa thực hiện",
+    "assignedTo": "Le Van C",
+    "date": "2025-03-08T00:00:00Z",
+    "checklist": {
+      "apartmentCode": "Z3003_103103",
+      "handoverDate": "2025-03-08T00:00:00Z",
+      "kitchenItems": [
+        {
+          "id": 1,
+          "category": "Bồn rửa chén inox & Vòi nước",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 2,
+          "category": "Bếp bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 3,
+          "category": "Bếp bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 4,
+          "category": "Bếp bổ sung 3",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "bedroomItems": [
+        {
+          "id": 1,
+          "category": "Đèn trần",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 2,
+          "category": "Phòng ngủ bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 3,
+          "category": "Phòng ngủ bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 4,
+          "category": "Phòng ngủ bổ sung 3",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "livingRoomItems": [
+        {
+          "id": 1,
+          "category": "Kệ sách",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 2,
+          "category": "Phòng khách bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 3,
+          "category": "Phòng khách bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 4,
+          "category": "Phòng khách bổ sung 3",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "balconyItems": [
+        {
+          "id": 1,
+          "category": "Hệ thống thoát nước",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 2,
+          "category": "Ban công bổ sung 1",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 3,
+          "category": "Ban công bổ sung 2",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        },
+        {
+          "id": 4,
+          "category": "Ban công bổ sung 3",
+          "note": "",
+          "imageUrl": [],
+          "isVerified": false
+        }
+      ],
+      "completionStatus": "Chưa nghiệm thu",
+      "isCompleted": false
+    }
+  }
+]

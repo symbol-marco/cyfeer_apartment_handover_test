@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "name": "Thanh Mai",
+      "password": "e10adc3949ba59abbe56e057f20f883e",  
+      "phoneNumber": "0987654321",
+      "address": "Tòa A, Tầng 10",
+      "createdAt": "2024-03-01T00:00:00Z",
+      "updatedAt": "2024-03-15T10:30:00Z",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "name": "Cyfeer",
+      "password": "e165421110ba03099a1c0393373c5b43",
+      "phoneNumber": "0987657550",
+      "address": "Tòa A, Tầng 10",
+      "createdAt": "2024-03-01T00:00:00Z",
+      "updatedAt": "2024-03-15T10:30:00Z",
+      "isActive": true
+    }
+  ]

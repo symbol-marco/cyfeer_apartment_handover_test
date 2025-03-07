@@ -1,0 +1,71 @@
+name: cyfeer_apartment_handover
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  gap: ^3.0.1
+  intl: 0.19.0
+  easy_date_timeline: ^2.0.6
+  carousel_slider_plus: ^7.1.0
+  flutter_svg: ^2.0.17
+  flutter_sticky_header: ^0.7.0
+  riverpod: ^2.3.6
+  flutter_riverpod: ^2.3.6
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  shared_preferences: ^2.5.2
+  collection: ^1.19.0
+  crypto: ^3.0.6
+  image_picker: ^1.1.2
+
+dev_dependencies:
+  hive_generator: ^2.0.0
+  build_runner: ^2.4.6
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/fonts/
+    - assets/icons/
+    - assets/resources/
+    - assets/images/
+
+  fonts:
+    - family: SFPro
+      fonts:
+        - asset: assets/fonts/SF-Pro-Regular.OTF
+          weight: 400  # Regular
+        - asset: assets/fonts/SF-Pro-Ultra-Light-Italic.OTF
+          weight: 100  # Ultra Light
+          style: italic
+        - asset: assets/fonts/SF-Pro-Thin-Italic.OTF
+          weight: 200  # Thin
+          style: italic
+        - asset: assets/fonts/SF-Pro-Semi-Bold-Italic.OTF
+          weight: 600  # Semi Bold
+          style: italic
+        - asset: assets/fonts/SF-Pro-Medium.OTF
+          weight: 500  # Medium
+        - asset: assets/fonts/SF-Pro-Light-Italic.OTF
+          weight: 300  # Light
+          style: italic
+        - asset: assets/fonts/SF-Pro-Italic.OTF
+          weight: 400  # Regular Italic
+          style: italic
+        - asset: assets/fonts/SF-Pro-Heavy-Italic.OTF
+          weight: 800  # Heavy
+          style: italic
+        - asset: assets/fonts/SF-Pro-Bold.OTF
+          weight: 700  # Bold
+
